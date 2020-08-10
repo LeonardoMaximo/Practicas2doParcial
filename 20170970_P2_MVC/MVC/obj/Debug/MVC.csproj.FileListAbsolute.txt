@@ -1,0 +1,29 @@
+C:\Users\Miguel Hilario\source\repos\_MVC\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\Miguel Hilario\source\repos\_MVC\MVC\obj\Debug\MVC.Properties.Resources.resources
+C:\Users\Miguel Hilario\source\repos\_MVC\MVC\obj\Debug\MVC.Vista.V_Menu.resources
+C:\Users\Miguel Hilario\source\repos\_MVC\MVC\obj\Debug\MVC.csproj.GenerateResource.cache
+C:\Users\Miguel Hilario\source\repos\_MVC\MVC\bin\Debug\MVC.exe.config
+C:\Users\Miguel Hilario\source\repos\_MVC\MVC\bin\Debug\MVC.exe
+C:\Users\Miguel Hilario\source\repos\_MVC\MVC\bin\Debug\MVC.pdb
+C:\Users\Miguel Hilario\source\repos\_MVC\MVC\obj\Debug\MVC.exe
+C:\Users\Miguel Hilario\source\repos\_MVC\MVC\obj\Debug\MVC.pdb
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\_MVC\MVC\bin\Debug\MVC.exe.config
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\_MVC\MVC\bin\Debug\MVC.exe
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\_MVC\MVC\bin\Debug\MVC.pdb
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\_MVC\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\_MVC\MVC\obj\Debug\MVC.Properties.Resources.resources
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\_MVC\MVC\obj\Debug\MVC.Vista.V_Menu.resources
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\_MVC\MVC\obj\Debug\MVC.csproj.GenerateResource.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\_MVC\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\_MVC\MVC\obj\Debug\MVC.exe
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\_MVC\MVC\obj\Debug\MVC.pdb
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\20170970_P2_MVC\MVC\bin\Debug\MVC.exe.config
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\20170970_P2_MVC\MVC\bin\Debug\MVC.exe
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\20170970_P2_MVC\MVC\bin\Debug\MVC.pdb
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\20170970_P2_MVC\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\20170970_P2_MVC\MVC\obj\Debug\MVC.Properties.Resources.resources
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\20170970_P2_MVC\MVC\obj\Debug\MVC.Vista.V_Menu.resources
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\20170970_P2_MVC\MVC\obj\Debug\MVC.csproj.GenerateResource.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\20170970_P2_MVC\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\20170970_P2_MVC\MVC\obj\Debug\MVC.exe
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\20170970_P2_MVC\MVC\obj\Debug\MVC.pdb
