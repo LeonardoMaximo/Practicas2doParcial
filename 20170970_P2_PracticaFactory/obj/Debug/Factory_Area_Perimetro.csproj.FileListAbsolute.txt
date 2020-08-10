@@ -1,0 +1,19 @@
+C:\Users\Miguel Hilario\source\repos\Factory_Area_Perimetro\bin\Debug\Factory_Area_Perimetro.exe.config
+C:\Users\Miguel Hilario\source\repos\Factory_Area_Perimetro\bin\Debug\Factory_Area_Perimetro.exe
+C:\Users\Miguel Hilario\source\repos\Factory_Area_Perimetro\bin\Debug\Factory_Area_Perimetro.pdb
+C:\Users\Miguel Hilario\source\repos\Factory_Area_Perimetro\obj\Debug\Factory_Area_Perimetro.csprojAssemblyReference.cache
+C:\Users\Miguel Hilario\source\repos\Factory_Area_Perimetro\obj\Debug\Factory_Area_Perimetro.Form1.resources
+C:\Users\Miguel Hilario\source\repos\Factory_Area_Perimetro\obj\Debug\Factory_Area_Perimetro.Properties.Resources.resources
+C:\Users\Miguel Hilario\source\repos\Factory_Area_Perimetro\obj\Debug\Factory_Area_Perimetro.csproj.GenerateResource.cache
+C:\Users\Miguel Hilario\source\repos\Factory_Area_Perimetro\obj\Debug\Factory_Area_Perimetro.exe
+C:\Users\Miguel Hilario\source\repos\Factory_Area_Perimetro\obj\Debug\Factory_Area_Perimetro.pdb
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\Factory_Area_Perimetro\bin\Debug\Factory_Area_Perimetro.exe.config
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\Factory_Area_Perimetro\bin\Debug\Factory_Area_Perimetro.exe
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\Factory_Area_Perimetro\bin\Debug\Factory_Area_Perimetro.pdb
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\Factory_Area_Perimetro\obj\Debug\Factory_Area_Perimetro.csprojAssemblyReference.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\Factory_Area_Perimetro\obj\Debug\Factory_Area_Perimetro.Form1.resources
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\Factory_Area_Perimetro\obj\Debug\Factory_Area_Perimetro.Properties.Resources.resources
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\Factory_Area_Perimetro\obj\Debug\Factory_Area_Perimetro.csproj.GenerateResource.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\Factory_Area_Perimetro\obj\Debug\Factory_Area_Perimetro.csproj.CoreCompileInputs.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\Factory_Area_Perimetro\obj\Debug\Factory_Area_Perimetro.exe
+D:\UTHH\9° Cuatri\Programacion\Parcial 2\Factory_Area_Perimetro\obj\Debug\Factory_Area_Perimetro.pdb
